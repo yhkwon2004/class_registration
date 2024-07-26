@@ -1,0 +1,2 @@
+Name: Kim, Student ID: 12240001, Department: robotics, Email: Kim@google.co.kr, Grade: 3.0
+Name: 01, Student ID: 01, Department: 01, Email: 01
