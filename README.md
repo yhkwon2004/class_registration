@@ -1,3 +1,7 @@
+
+https://github.com/yhkwon2004/class_registration/issues/1#issue-2431496578
+
+
 # class_registration
 수강신청구현 연습용 프로그램
 1.개발환경
