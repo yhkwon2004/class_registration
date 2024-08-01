@@ -1,5 +1,5 @@
 
-https://github.com/yhkwon2004/class_registration/issues/1#issue-2431496578
+보고서 참고 파일 https://github.com/yhkwon2004/class_registration/issues/1#issue-2431496578
 
 
 # class_registration
